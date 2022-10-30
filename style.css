@@ -9,8 +9,8 @@
   background-color: rgb(5, 179, 147);
 }
 body {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  background: #ece6e6;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande","Lucida Sans", Arial, sans-serif;
   padding: 20px;
 }
 .menu li a {
