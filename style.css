@@ -21,11 +21,14 @@ body {
   text-decoration: none;
 }
 h1,
-h2,
-h4 {
+h2 {
   text-align: center;
   padding: 20px;
   font-size: 40px;
+}
+h4 {
+  text-align: center;
+  font-size: 30px;
 }
 p {
   max-width: 100%;
