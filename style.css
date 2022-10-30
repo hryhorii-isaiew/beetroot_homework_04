@@ -1,0 +1,41 @@
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(8, 241, 203);
+}
+.menu li a:hover {
+  background-color: rgb(5, 179, 147);
+}
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 20px;
+}
+.menu li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+}
+h1,
+h2,
+h4 {
+  text-align: center;
+  padding: 20px;
+  font-size: 40px;
+}
+p {
+  max-width: 100%;
+  font-size: 18px;
+}
+img {
+  margin: auto;
+  display: block;
+}
+iframe {
+  margin: auto;
+  display: block;
+}
